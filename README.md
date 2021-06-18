@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maahad767
 - 👀 I’m interested in Programming, Inventing, Creating
-- 🌱 I’m currently learning Advanced Programming 
+- 🌱 I’m always learning, Working at Tickets4Travels as a Backend Software Developer
 - 💞️ I’m looking to collaborate on Python based Open Source Projects
 - 📫 How to reach me -> maahad.767@gmail.com
 
