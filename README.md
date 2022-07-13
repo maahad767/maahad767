@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maahad767
+- 👋 Hi, I’m Mohammad Abdul Ahad
 - 👀 I’m interested in Programming, Inventing, Creating
-- 🌱 I’m always learning, Working at Ricciwawa as a Backend Software Developer
+- 🌱 I'm working as Software Engineer at Brain Station 23.
 - 💞️ I’m looking to collaborate on Python based Open Source Projects
 - 📫 How to reach me -> maahad.767@gmail.com
 
