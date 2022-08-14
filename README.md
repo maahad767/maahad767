@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Abdul Ahad
-- 👀 I’m interested in Programming, Inventing, Creating
-- 🌱 I'm working as Software Engineer at Brain Station 23.
-- 💞️ I’m looking to collaborate on Python based Open Source Projects
+- 👀 Interested in Programming, Inventing, Creating
+- 🌱 Working as Software Engineer at Brain Station 23.
+- 💞️ Looking to collaborate on Python based Open Source Projects
 - 📫 How to reach me -> maahad.767@gmail.com
 
 <!---
